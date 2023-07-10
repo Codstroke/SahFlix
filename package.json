@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "movie-trailer": "^1.0.4",
+    "react-router-dom": "^6.14.1"
+  },
+  "dependencies": {
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.6",
+    "axios": "^1.4.0",
+    "firebase": "^10.0.0",
+    "https-browserify": "^1.0.0",
+    "module": "^1.0.0",
+    "node-fetch": "^2.6.12",
+    "package": "^1.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-youtube": "^10.1.0",
+    "resolve": "^1.22.2",
+    "source-map-url": "^0.4.1",
+    "stream-http": "^3.2.0",
+    "styled-components": "^5.3.11",
+    "urix": "^0.1.0",
+    "url": "^0.11.1"
+  }
+}
